@@ -8,7 +8,7 @@ If you want to impress someone, this is the way to go
 
 # BIG **ISSUES!**
 * Does not render **black**
-* Transparent is seen as `0,0,0`(**Black**) so it's not rendered
+* Transparent is seen as `0,0,0` (**Black**) so it's not rendered
 * The final drawing doesn't display properly
 
 ## To-Do
