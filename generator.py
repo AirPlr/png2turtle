@@ -14,10 +14,10 @@ f.write("Turtle.goto(-300,300)\n")
 f.write("Turtle.pendown()\n")
 f.write("Turtle.colormode(255)   \n")
 f.write("def skip():\n   Turtle.penup()\n   Turtle.forward(30)\n   Turtle.pendown()\n")
-f.write('def drawpixel(pxcolor):\n   color = pxcolor\n   if color[0]!=0 or color[1]!=0 or color[2]!=0: \n      Turtle.color(color[0],color[1],color[2])\n      Turtle.pencolor(color[0],color[1],color[2])\n      Turtle.begin_fill()\n      for _ in range(4):\n        Turtle.forward(30)\n        Turtle.right(90)\n      Turtle.end_fill()\n   skip()\n')
+f.write('def drawpixel(pxcolor):\n      color = pxcolor\n      Turtle.color(color[0],color[1],color[2])\n      Turtle.pencolor(color[0],color[1],color[2])\n      Turtle.begin_fill()\n      for _ in range(4):\n        Turtle.forward(30)\n        Turtle.right(90)\n      Turtle.end_fill()\n      skip()\n')
 
 numpy.set_printoptions(threshold=sys.maxsize)
-filename=image_fixer.image_fixer(file)
+filename=image_fixer.fix(file)
 img=cv2.imread(filename)
 row,col,ch=img.shape
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
