@@ -17,7 +17,7 @@ If you want to impress someone, this is the way to go
 
 ## Dependecies
 Run this command
-    `pip3 install opencv-python Turtle numpy pillow`
+    `pip3 install opencv-python Turtle numpy Pillow`
     
 # Running it!
 * Run generator.py with `python3 generator.py` 
