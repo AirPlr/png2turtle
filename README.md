@@ -2,7 +2,7 @@
 
 ### Seems like no one made it, so this is my take to it
 
-#### Pheralps the heavyest way to convert a photo to vector, but a perfect upscaler for pixel art and stuff
+#### Pheralps the heavyest and worst way to convert a photo to vector, but a perfect upscaler for pixel art and stuff
 
 ---
 
