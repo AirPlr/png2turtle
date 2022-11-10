@@ -2,7 +2,7 @@
 
 ### Seems like no one made it, so this is my take to it
 
-#### Pheralps the heavyest and worst way to convert a photo to vector, but a perfect upscaler for pixel art and stuff
+#### Pheralps the heavyest way to convert a photo to vector, but a perfect upscaler for pixel art and stuff
 
 ---
 
@@ -17,9 +17,8 @@ If you want to impress someone, this is the way to go
 
 ## Dependecies
 Run this command
-    `pip3 install opencv-python Turtle numpy Pillow tqdm os-sys`
+    `pip3 install opencv-python Turtle numpy Pillow tqdm `
     
 # Running it!
-* Run generator.py with `python3 generator.py` 
-* Enter the name of your png or jpg file when asked: `Enter the name of the image: g.png`
-* Run turtlescript.py with `python3 turtlescrypt.py`
+Enter the name of your png or jpg file when asked:
+`Enter the name of the image: g.png`
