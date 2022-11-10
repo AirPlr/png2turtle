@@ -20,5 +20,6 @@ Run this command
     `pip3 install opencv-python Turtle numpy pillow`
     
 # Running it!
-Enter the name of your png or jpg file when asked:
-`Enter the name of the image: g.png`
+* Run generator.py with `python3 generator.py` 
+* Enter the name of your png or jpg file when asked: `Enter the name of the image: g.png`
+* Run turtlescript.py with `python3 turtlescrypt.py`
