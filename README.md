@@ -17,7 +17,7 @@ If you want to impress someone, this is the way to go
 
 ## Dependecies
 Run this command
-    `pip3 install opencv-python PythonTurtle numpy Pillow tqdm `
+    `pip3 install opencv-python PythonTurtle numpy Pillow customtkinter `
     
 # Running it!
 Enter the name of your png or jpg file when asked:
