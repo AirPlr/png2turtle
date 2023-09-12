@@ -11,7 +11,7 @@ This script converts PNG and JPG files to Python Turtle Graphics
 If you want to impress someone, this is the way to go
 
 # BIG **ISSUES!**
-* The final drawing doesn't display properly
+* The final drawing does not fit properly
 
 ## To-Do
 * Add comments
