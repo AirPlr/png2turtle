@@ -1,7 +1,7 @@
 # png2turtle
 ## Now with a GUI
 
-### Seems like no one made it, so this is my take to it
+### Seems like no one made it, so this is my take on it
 
 #### Pheralps the heavyest way to convert a photo to vector, but a perfect upscaler for pixel art and stuff
 
